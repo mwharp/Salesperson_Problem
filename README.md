@@ -1,3 +1,3 @@
 # Salesperson_Problem
 
-This was the midterm for...
+This was the midterm for algorithms. 40 points on this was to solve the famous "Traveling Salesperson" problem using brute force. After working on this for three-four nights to perfect, I made an algorithim that took a random city to start and end at, and found the lowest cost to travel from city to city. I am proud of the result of this assignment not because I finished it, but because when I did I tested out more code to see what else could work with the problem. This assignment showed me my determination to learn more about a problem, and make sure I understood it, and I understood how I solved it.
